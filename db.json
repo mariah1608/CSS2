@@ -1,0 +1,20 @@
+{
+    "movies":[
+        {
+            "id" : 1,
+            "title" : "Frozen",
+            "genre": "Animation",
+            "price" : 7.99,
+            "runtime": "102 mins",
+            "4k": true
+        },
+        {
+            "id" : 2,
+            "title" : "Harry Potter",
+            "genre": "Fantasy",
+            "price" : 15.99,
+            "runtime": "180 mins",
+            "4k": false
+        }
+    ]
+}
